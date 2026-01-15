@@ -1,1 +1,1 @@
-# divvygo-privacy
+# DivvyGo-privacy
